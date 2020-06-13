@@ -1,0 +1,24 @@
+
+\
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ûÑÛù
+z
+java:S1488u"dImmediately return this expression instead of assigning it to the temporary variable "pathFileName".(£êùö
+{
+java:S1488ó"dImmediately return this expression instead of assigning it to the temporary variable "pathFileName".( ßë¢
+P
+java:S1118":Add a private constructor to hide the implicit public one.(⁄úÏŸ
+†
+java:S1130f"âRemove the declaration of thrown exception 'com.ruoyi.common.exception.file.FileSizeLimitExceededException' which is a runtime exception.(Ì¡º¥
+¶
+java:S1130f"èRemove the declaration of thrown exception 'com.ruoyi.common.exception.file.FileNameLengthLimitExceededException' which is a runtime exception.(Ì¡º¥
+<
+java:S1075Ä"&Remove this hard-coded path-delimiter.(∑É !
+X	java:S899é"BDo something with the "boolean" value returned by "createNewFile".(¿≠¨¿
+É
+java:S1130ì"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(„èÓ‡
+=
+java:S1075ó"&Remove this hard-coded path-delimiter.( ßë¢
+=
+java:S1075ó"&Remove this hard-coded path-delimiter.( ßë¢
+°
+java:S1130Æ"âRemove the declaration of thrown exception 'com.ruoyi.common.exception.file.FileSizeLimitExceededException' which is a runtime exception.(Ùõ⁄ 
